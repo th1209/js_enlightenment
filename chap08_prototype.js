@@ -34,3 +34,7 @@ var instanceTwo = new Obj();
 console.log(instanceOne.x);	//1 (変わらない。インスタンス生成時点のprototypeへの参照を保持)
 console.log(instanceTwo.x);	//2 (当然変更後の2になっている)
 
+
+
+
+

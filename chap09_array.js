@@ -68,5 +68,5 @@ while(counter < tmpLength){
     console.log(myArray[counter]);
     counter++;
 }
-counter = undefined;    //使い終わった変数の後始末も忘れずに
-tmpLength = undefined;
+counter = null;    //使い終わった変数の後始末も忘れずに
+tmpLength = null;
