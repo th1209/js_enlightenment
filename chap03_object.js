@@ -1,0 +1,12 @@
+// Object()が持つプロパティとメソッド
+// プロパティ
+//     ・prototype
+// インスタンスプロパティ
+//     ・constructor
+// インスタンスメソッド
+//     ・hasOwnProperty(V):
+//     ・isProtoTypeOf(V):Vで指定したプロトタイプチェーンに含まれるか
+//     ・propertyIsEnumerable(V):Vで指定したプロパティは列挙可能か(DontEnum内部属性を持つかどうか)
+//     ・toLocaleString:
+//     ・toString:
+//     ・valueOf:オブジェクトに対応するプリミティブ値を返す
